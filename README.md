@@ -11,14 +11,9 @@
 
 
 #### I’m currently learning:
-
+* React, React, React
 * GraphQL through [Apollo Odyssey](https://odyssey.apollographql.com/)
 * Styled-Components
-
-
-#### I'm currently reading:
-
-* [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 
 #### You can get in touch with me through my [LinkedIn profile](https://www.linkedin.com/in/jeremydurden/)
