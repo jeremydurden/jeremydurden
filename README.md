@@ -7,7 +7,7 @@
 
 ##### My most recent project is a Quiz Game that was made with React and uses a trivia database API. [rep](https://github.com/jeremydurden/quiz-game)
 
-* [React Game Feed](https://github.com/jeremydurden/ReactGameFeed)
+* [Quizzical](https://github.com/jeremydurden/quiz-game)
 
 
 #### I’m currently learning:
