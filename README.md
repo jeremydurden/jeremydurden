@@ -15,10 +15,12 @@
 * Context API
 * Full-Stack integration w/ Express.js, Mongo.db & Node.js
 * Styled-Components
+* Responsive styles
 
 ### I'm currently building:
 
 * A full stack job application tracking app [repo](https://github.com/jeremydurden/jobify)
+* A concept for a blog in React
 
 
 #### You can get in touch with me through my [LinkedIn profile](https://www.linkedin.com/in/jeremydurden/)
